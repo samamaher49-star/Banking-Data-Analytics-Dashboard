@@ -265,6 +265,6 @@ By integrating multiple areas of banking analytics into one interactive solution
 
 Data Analytics | Business Intelligence | Power BI | SQL | Python | Excel
 
-[LinkedIn](www.linkedin.com/in/sama-maher-8440b3206) 
+[LinkedIn](https://www.linkedin.com/in/sama-maher-8440b3206/)
 
 
