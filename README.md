@@ -91,6 +91,7 @@ Combines financial, customer, lending, and operational insights to provide a com
 | [Customers.png](Customers.png) | Customers Dashboard |
 | [Transactions.png](Transactions.png) | Transactions Dashboard |
 | [Loans.png](Loans.png) | Loans Dashboard |
+| [Loans.png](Tracking%20LoanStartDate%20&%20LoanEndDate.png) | Loans Tracking|
 | [Support Calls.png](Support%20Calls.png) | Support Calls Dashboard |
 
 ---
@@ -263,5 +264,7 @@ By integrating multiple areas of banking analytics into one interactive solution
 **Sama Maher**
 
 Data Analytics | Business Intelligence | Power BI | SQL | Python | Excel
+
+[LinkedIn](www.linkedin.com/in/sama-maher-8440b3206) 
 
 
