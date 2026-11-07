@@ -86,12 +86,13 @@ Combines financial, customer, lending, and operational insights to provide a com
 
 | File | Description |
 |---|---|
-| [Banking_Dataset.zip](Banking_Dataset.zip) | Download the Banking Dataset |
+| [Banking_Dataset.zip](Banking_Dataset.zip) | Banking Dataset |
+| [Banking_Dashboard.pbix](Banking_Dashboard.pbix) |Interactive Power BI Dashboard |
 | [Overview.png](Overview.png) | Banking Overview Dashboard |
 | [Customers.png](Customers.png) | Customers Dashboard |
 | [Transactions.png](Transactions.png) | Transactions Dashboard |
 | [Loans.png](Loans.png) | Loans Dashboard |
-| [Loans.png](Tracking%20LoanStartDate%20&%20LoanEndDate.png) | Loans Tracking|
+| [Loans.png](Tracking%20LoanStartDate%20&%20LoanEndDate.png) | Loans Tracking |
 | [Support Calls.png](Support%20Calls.png) | Support Calls Dashboard |
 
 ---
