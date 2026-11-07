@@ -14,6 +14,7 @@ The primary objective of this project is to develop a comprehensive banking anal
 - Analyze customer demographics and customer segmentation.
 - Track financial transactions and transaction patterns.
 - Evaluate loan distribution and lending performance.
+- Track loan start dates, end dates, and loan statuses.
 - Analyze customer service activities and support calls.
 - Monitor key financial and operational performance indicators.
 - Identify customer behavior patterns and business trends.
@@ -31,6 +32,7 @@ The dashboard provides an overview of important banking performance metrics, inc
 - 🏦 Total Loans
 - 📊 Average Transaction Value
 - 📈 Loan Performance
+- 📅 Loan Start & End Date Tracking
 - 📞 Total Support Calls
 - 👤 Customer Activity
 
@@ -44,8 +46,8 @@ Analyzes transaction volumes, transaction values, financial activity patterns, a
 ### Customer Analysis
 Provides insights into customer demographics, customer distribution, segmentation, and behavioral patterns to better understand the customer base.
 
-### Loan Analysis
-Evaluates loan distribution, lending activities, loan performance, and customer borrowing patterns.
+### Loan Analysis & Tracking
+Evaluates loan distribution, lending activities, interest rates, loan types, loan amounts, start dates, end dates, and current loan statuses.
 
 ### Customer Support Analysis
 Examines customer support calls, service activity, and support trends to identify potential areas for improving customer experience.
@@ -72,6 +74,7 @@ Combines financial, customer, lending, and operational insights to provide a com
 ### Page 4 — Loan Analysis
 
 ![Loan Analysis](Loans.png)
+![Loan Analysis](Tracking%20LoanStartDate%20&%20LoanEndDate.png)
 
 ### Page 5 — Customer Support Analysis
 
@@ -177,9 +180,9 @@ Provides insights into financial transaction activities, transaction values, acc
 - Account Type
 - Year
 
-### 4. Loans Analysis
+### 4. Loans Analysis & Tracking
 
-Evaluates loan portfolio performance, lending activities, interest rates, and loan distribution across different categories.
+Evaluates loan portfolio performance, lending activities, interest rates, loan distribution, and individual loan lifecycle tracking.
 
 **Key Performance Indicators (KPIs):**
 - Total Loan Amount
@@ -188,6 +191,8 @@ Evaluates loan portfolio performance, lending activities, interest rates, and lo
 - Average Interest Rate
 
 **Visualizations & Analysis:**
+
+**Loan Portfolio Analysis:**
 - Average Interest Rate by Loan Type.
 - Loan Amount Distribution by Loan Status:
   - Active Loans
@@ -199,6 +204,18 @@ Evaluates loan portfolio performance, lending activities, interest rates, and lo
   - Home
   - Car
   - Education
+
+**Loan Tracking – Loan Start Date & Loan End Date:**
+
+Provides a detailed table for monitoring individual customer loans and tracking their lifecycle from origination to scheduled end date.
+
+- Customer Identification: Displays Customer ID and Full Name.
+- Loan Classification: Identifies the loan type for each customer.
+- Loan Amount Tracking: Displays the amount assigned to each individual loan.
+- Total Loans: Shows the number of loans associated with each record.
+- Loan Start Date: Tracks the loan origination date, including year and month.
+- Loan End Date: Tracks the scheduled loan maturity date, including day, year, and month.
+- Loan Status Monitoring: Distinguishes between Active Loans and Ended Loans.
 
 **Interactive Filters:**
 - Loan Type
@@ -232,6 +249,7 @@ The Banking Data Analytics Dashboard helps decision-makers:
 - Understand customer behavior and demographics.
 - Evaluate financial transaction patterns.
 - Assess loan distribution and lending activities.
+- Track loan lifecycles through start dates, end dates, and loan statuses.
 - Identify customer service trends.
 - Discover operational improvement opportunities.
 - Make informed, data-driven business decisions.
