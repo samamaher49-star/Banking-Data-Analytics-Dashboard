@@ -264,4 +264,4 @@ By integrating multiple areas of banking analytics into one interactive solution
 
 Data Analytics | Business Intelligence | Power BI | SQL | Python | Excel
 
-LinkedIn | GitHub
+
