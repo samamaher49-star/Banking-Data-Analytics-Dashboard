@@ -83,12 +83,12 @@ Combines financial, customer, lending, and operational insights to provide a com
 
 | File | Description |
 |---|---|
-| Overview.png | Banking overview dashboard |
-| Customers.png | Customer analysis dashboard |
-| Transactions.png | Financial transactions dashboard |
-| Loans.png | Loan analysis dashboard |
-| Support Calls.png | Customer support dashboard |
-| README.md | Project documentation |
+| [Banking_Dataset.zip](Banking_Dataset.zip) | Download the Banking Dataset |
+| [Overview.png](Overview.png) | Banking Overview Dashboard |
+| [Customers.png](Customers.png) | Customers Dashboard |
+| [Transactions.png](Transactions.png) | Transactions Dashboard |
+| [Loans.png](Loans.png) | Loans Dashboard |
+| [Support Calls.png](Support%20Calls.png) | Support Calls Dashboard |
 
 ---
 
